@@ -2,6 +2,7 @@
 - 👀 Me interesa la programacion con HTML, CSS, PHP y Mysql
 - 🌱 Actualmente estoy aprendiendo en Coder House 
 - 📫 Mandame un mail a consultas@bautistaizaguirre.com
+- 🔮 Proximamente: Programacion Backend
 - 🎞 Intagram » <a href="https://www.instagram.com/bautistaizaguirreii/">@bautistaizaguirreii<a>
 
   <h2 style="color:gray">Mis Diplomas</h2>
