@@ -1,5 +1,5 @@
 - 👋 Hola, soy @BautistaIza
-- 👀 Me interesa la programacion con HTML, CSS, PHP y Mysql
+- 👀 Me interesa la programacion con Backend, Frontend (Basico) y Marketing Digital
 - 🌱 Actualmente estoy aprendiendo en Coder House 
 - 📫 Mandame un mail a consultas@bautistaizaguirre.com
 - 🔮 Proximamente: Programacion Backend
