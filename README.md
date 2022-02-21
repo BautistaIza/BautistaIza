@@ -14,7 +14,7 @@
   <img src="https://diplomas.bautistaizaguirre.com/marketing.png">
   <a target="_blank" href="https://www.coderhouse.com/certificados/6135eea77ed2bd001184de67"><button type="button" class="btn btn-outline-light boton">Verificar Diploma</button></a>
   <br>
-  <h3 style="text-align:center">Marketing Digital</h3>
+  <h3 style="text-align:center">JavaScript</h3>
   <img src="https://i.imgur.com/ZAJI0Jg.png">
   <a target="_blank" href="https://www.coderhouse.com/certificados/6213a01a122ffb00702303a5"><button type="button" class="btn btn-outline-light boton">Verificar Diploma</button></a>
   <hr>
