@@ -1,8 +1,7 @@
 - 👋 Hola, soy @BautistaIza
-- 👀 Me interesa la programacion (Frontend Basico y Marketing Digital)
+- 👀 Me interesa el desarrollo web con PHP, Mysql y Jquery.
 - 🌱 Actualmente estoy aprendiendo en Coder House 
 - 📫 Mandame un mail a consultas@bautistaizaguirre.com
-- 🔮 Estoy aprendiendo: Programacion Backend
 - 🎞 Intagram » <a href="https://www.instagram.com/bautistaizaguirreii/">@bautistaizaguirreii<a>
 
   <h2 style="color:gray">Mis Diplomas</h2>
