@@ -1,5 +1,5 @@
 - 👋 Hola, soy @BautistaIza
-- 👀 Desarrollo webs con PHP, Mysql y NodeJs (BackEnd) y HTML, CSS, JS, BOOTSTRAP y Jquery (FrontEnd).
+- 👀 Desarrollo webs con PHP, Mysql y Laravel (BackEnd) y HTML, CSS, JS, BOOTSTRAP y Jquery (FrontEnd).
 - 🌱 Estudie desarrollo web en Coder House 
 - 📫 Mandame un mail a consultas@bautistaizaguirre.com
 - 🎞 Intagram » <a href="https://www.instagram.com/bautistaizaguirreii/">@bautistaizaguirreii<a>
